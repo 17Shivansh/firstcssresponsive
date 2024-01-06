@@ -87,7 +87,7 @@ header a:hover{
 /* Showcase */
 #showcase{
     min-height: 400px;
-    background: url("../csspracticeproject/images/elephant-2380009_1280.jpg");
+    background: url("./images/elephant-2380009_1280.jpg");
     text-align: center;
     color: #fff;
 }
